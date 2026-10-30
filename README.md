@@ -12,3 +12,6 @@ erDiagram
         date discharge_date "退院日"
         string department "診療科"
     }
+```
+動作環境  
+MySQL/DBeaver
